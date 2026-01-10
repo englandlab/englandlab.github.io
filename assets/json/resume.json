@@ -20,21 +20,17 @@
       "position": "Assistant Professor",
       "url": "https://example.com",
       "startDate": "07/01/2025",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus."
     }
   ],
   "education": [
     {
       "institution": "Columbia University",
       "location": "New York, USA",
-      "url": "https://www.uzh.ch/",
       "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "studyType": "PhD in Applied Mathematics and Atmospheric Science",
+      "startDate": "2013",
+      "endDate": "2019"
     }
   ],
   "awards": [
